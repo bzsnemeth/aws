@@ -58,7 +58,7 @@ Access the Kubernetes cluster using kubectl to manage your applications.
 
 ## Contributing
 
-Contributions to this project are welcome. Please fork the repository and submit a pull request.
+Contributions to this project are welcome. Please fork the repository and submit a pull request!
 
 ### License
 
